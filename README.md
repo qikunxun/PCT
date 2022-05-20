@@ -19,7 +19,7 @@ We use XNLI and PAWS-X in our experiments.
 | XNLI (fewshot)     | https://github.com/mprompting/xlmrprompt                             |
 | PAWS-X             | https://github.com/google-research-datasets/paws/tree/master/pawsx   |
 
-Put the datasets into the [PCT/datasets/]().
+Put the datasets into the directory ``PCT/datasets/``.
 
 We also provide the code for converting the pytorch checkpoint to the tensorflow version (see the directory ``torch2tf``).
 
